@@ -1,12 +1,12 @@
-[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![LEGENDBOT]https://graph.org/file/e6899bf92bc6cc628fbf7.jpg()](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
 
 
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』 </b>
+<b> 『𝗧𝗗𝗡™𝗕𝗢𝗧』 </b>
 </h1>
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
+  <b>⚡𝗧𝗗𝗡™𝗕𝗢𝗧  Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
 </h6>
 
 
